@@ -23,7 +23,7 @@ export default function App() {
           </div>
           <ul>
             <li><Link to="/">Home</Link></li>
-            <li><Link to="/lifting-state-up">Lifting State Up</Link></li>
+            <li><Link to="/lifting-state-up">Lifting</Link></li>
             <li><Link to="/hooks-context">Hooks</Link></li>
             <li><Link to="/redux">Redux</Link></li>
             <li><Link to="/todolist">List</Link></li>
